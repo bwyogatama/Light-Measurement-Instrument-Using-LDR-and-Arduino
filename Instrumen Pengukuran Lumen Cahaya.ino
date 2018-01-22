@@ -1,8 +1,10 @@
 /* Tugas EL3013 Sistem Instrumentasi
  * Light Intensity Sensor (Photoresistor)
- * Contributors : 1. Jhonson Lee (13214011)
+ * Contributors : 
+ *               1. Bobbi Winema Yogatama (13214071)
  *               2. Nur Laila (13214042)
- *               3. Bobbi Winema Yogatama (13214071)
+ *               3. Jhonson Lee (13214011)
+ *               
  */
 
 /* File Header */
